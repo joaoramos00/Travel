@@ -15,5 +15,7 @@ class HomeTableViewHeader: UIView {
     
     func configureView() {
         headerView.backgroundColor = UIColor(red: 30/255, green: 59/255, blue: 119/255, alpha: 1)
+        
+    
     }
 }
