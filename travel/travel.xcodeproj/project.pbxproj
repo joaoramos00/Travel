@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74BB7E2B27F3800400B7AE87 /* HomeTableViewHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74BB7E2A27F3800400B7AE87 /* HomeTableViewHeader.xib */; };
+		74BB7E2D27F3810C00B7AE87 /* HomeTableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BB7E2C27F3810C00B7AE87 /* HomeTableViewHeader.swift */; };
 		74D1BEF127F33F910099381B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D1BEF027F33F910099381B /* AppDelegate.swift */; };
 		74D1BEF327F33F910099381B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D1BEF227F33F910099381B /* SceneDelegate.swift */; };
 		74D1BEF527F33F910099381B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D1BEF427F33F910099381B /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		74BB7E2A27F3800400B7AE87 /* HomeTableViewHeader.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeTableViewHeader.xib; sourceTree = "<group>"; };
+		74BB7E2C27F3810C00B7AE87 /* HomeTableViewHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewHeader.swift; sourceTree = "<group>"; };
 		74D1BEED27F33F910099381B /* travel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = travel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74D1BEF027F33F910099381B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74D1BEF227F33F910099381B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				74D1BEF927F33F920099381B /* Assets.xcassets */,
 				74D1BEFB27F33F920099381B /* LaunchScreen.storyboard */,
 				74D1BEFE27F33F920099381B /* Info.plist */,
+				74BB7E2A27F3800400B7AE87 /* HomeTableViewHeader.xib */,
+				74BB7E2C27F3810C00B7AE87 /* HomeTableViewHeader.swift */,
 			);
 			path = travel;
 			sourceTree = "<group>";
@@ -126,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74D1BEFD27F33F920099381B /* LaunchScreen.storyboard in Resources */,
+				74BB7E2B27F3800400B7AE87 /* HomeTableViewHeader.xib in Resources */,
 				74D1BEFA27F33F920099381B /* Assets.xcassets in Resources */,
 				74D1BEF827F33F910099381B /* Main.storyboard in Resources */,
 			);
@@ -139,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74D1BEF527F33F910099381B /* ViewController.swift in Sources */,
+				74BB7E2D27F3810C00B7AE87 /* HomeTableViewHeader.swift in Sources */,
 				74D1BEF127F33F910099381B /* AppDelegate.swift in Sources */,
 				74D1BEF327F33F910099381B /* SceneDelegate.swift in Sources */,
 			);
